@@ -1,3 +1,7 @@
+## Team
+Tomo Umer - https://github.com/tomoumer
+Monica Weiss-Sharp - https://github.com/MWeissSharp
+
 # Analyzing Aggravated Burglaries in Davidson County
 
 ### Part 1 - Data Gathering using APIs
